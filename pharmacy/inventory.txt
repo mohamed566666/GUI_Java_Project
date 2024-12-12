@@ -1,0 +1,7 @@
+vit,vit,25.0,15
+abc,abc,10.0,4
+lcm,lcm,100.0,43
+yyy,yyy,30.0,3
+gcd,gcd,200.0,98
+concor,concor,25.0,4
+nino,nino,45.0,9
